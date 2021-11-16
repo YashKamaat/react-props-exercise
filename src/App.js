@@ -7,7 +7,7 @@ function App() {
     <Exercise
     good="Awesome"
     bad="Terrible" />
-    </div>;
+    </div>
   );
 }
 
